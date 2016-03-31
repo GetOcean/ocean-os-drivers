@@ -1,2 +1,3 @@
 # ocean-os-drivers
-Backported drivers for linux-based Ocean OS.
+
+Backported drivers for Ocean OS device drivers.
